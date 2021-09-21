@@ -1,24 +1,29 @@
-import React, { useEffect, useState } from "react";
-// import Banner from "../components/Banner";
-import axiosCall from "../api/axios";
+import { useEffect, useState } from "react";
+import BannerStyle from "../styles/BannerStyle";
 import Container from "../styles/PlayerContainerStyles";
 import PlayerCard from "../components/PlayerCard";
+import axiosCall from "../api/axios";
 
 function TeamDetails() {
   const teamName = window.location.pathname.slice(7);
+  const Bstyle = BannerStyle();
   const style = Container();
-  const [TeamData, setTeamData] = useState({players:[]});
-  const {players}=TeamData
+  const [TeamData, setTeamData] = useState({ players: [] });
+  const { players } = TeamData;
   useEffect(() => {
-      axiosCall(setTeamData, teamName);
+    axiosCall(setTeamData, teamName);
   }, [teamName]);
   return (
     <>
-              {/* <Banner teamName={teamName} /> */}
       {TeamData.players && (
         <>
+          <div className={Bstyle[`${teamName}-banner`]}>
+            <div className={Bstyle[`${teamName}-overlay`]}>
+              <div className={Bstyle[`${teamName}-overlay-img`]}></div>
+            </div>
+          </div>
           <div className={style.teamContainer}>
-            {players.map((item:any) => {
+            {players.map((item: any) => {
               return (
                 <PlayerCard
                   teamName={teamName}
