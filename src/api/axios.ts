@@ -1,18 +1,25 @@
 import axios from "axios";
 import { LoadingEvent } from "../event/LoadingEvent";
-import { publish } from "../pubsub/PubSub";
+import { publish } from "../config/PubSub";
 import URL from "../config/UrlMap";
-export default async function getAllTeamData(callBackData, teamName)
+export default async function getAllTeamData(callBackData:any, teamName:string)
 {
   const url=URL[teamName]
-  if(url)
+  if(url==='https://ipl-t20.herokuapp.com/teams')
   {
+
+    await axios.get(url).then((res) => {
+      callBackData(res.data);
+    });
+  }else if(url)
+  {
+    console.log(url)
     await axios.get(url).then((res) => {
       callBackData(res.data);
     });
   }
   else{
-    callBackData("Invalid Path")
+    callBackData("invalid url")
   }
 
 }
