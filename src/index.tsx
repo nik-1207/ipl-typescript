@@ -4,11 +4,15 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import CustomLoader from './components/CustomLoader';
+import ErrorBoundry from './ErrorBoundry/ErrorBoundry';
 
 ReactDOM.render(
   <React.StrictMode>
- <App />
+    <ErrorBoundry>
+    <App />
     <CustomLoader />
+    </ErrorBoundry>
+
   </React.StrictMode>,
   document.getElementById('root')
 );
