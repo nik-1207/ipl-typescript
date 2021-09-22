@@ -1,7 +1,7 @@
 import { createUseStyles } from "react-jss";
 
 interface map{
-    [key:string]:any
+    [key:string]:{}
 }
 const data:map={
     playerCard: {

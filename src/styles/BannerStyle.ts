@@ -1,7 +1,7 @@
 import { createUseStyles } from "react-jss";
 import BANNER_IMG from "../config/BannerImageMap";
 interface map {
-  [key: string]: any;
+  [key: string]: {};
 }
 
 const data:map={"chennai-super-kings-banner": 

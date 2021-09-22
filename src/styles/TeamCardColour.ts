@@ -1,6 +1,6 @@
 import { createUseStyles } from "react-jss";
 interface colour {
-  [key: string]: any;
+  [key: string]: {};
 }
 const data: colour = {
   "chennai-super-kings": {
