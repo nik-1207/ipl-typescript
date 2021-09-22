@@ -1,12 +1,12 @@
 import { createUseStyles } from "react-jss";
 import BANNER_IMG from "../config/BannerImageMap";
 interface map {
-  [key: string]: {};
+  [key: string]:{};
 }
 
 const data:map={"chennai-super-kings-banner": 
 {
-  backgroundImage:`url(${BANNER_IMG["chennai-super-kings"]["img-huddle"].default})`,
+  backgroundImage:`url(${BANNER_IMG["chennai-super-kings"]["img-huddle"]})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "100% 0",
   backgroundSize: "auto 100%",
@@ -26,7 +26,7 @@ const data:map={"chennai-super-kings-banner":
   }
 },
 "delhi-capitals-banner": {
-  backgroundImage:`url(${BANNER_IMG["delhi-capitals"]["img-huddle"].default})`,
+  backgroundImage:`url(${BANNER_IMG["delhi-capitals"]["img-huddle"]})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "100% 0",
   backgroundSize: "auto 100%",
@@ -47,7 +47,7 @@ const data:map={"chennai-super-kings-banner":
   
 },
 "mumbai-indians-banner": {
-  backgroundImage:`url(${BANNER_IMG["mumbai-indians"]["img-huddle"].default})`,
+  backgroundImage:`url(${BANNER_IMG["mumbai-indians"]["img-huddle"]})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "100% 0",
   backgroundSize: "auto 100%",
@@ -67,7 +67,7 @@ const data:map={"chennai-super-kings-banner":
   }
 },
 "rajasthan-royals-banner": {
-  backgroundImage:`url(${BANNER_IMG["rajasthan-royals"]["img-huddle"].default})`,
+  backgroundImage:`url(${BANNER_IMG["rajasthan-royals"]["img-huddle"]})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "100% 0",
   backgroundSize: "auto 100%",
@@ -87,7 +87,7 @@ const data:map={"chennai-super-kings-banner":
   }
 },
 "kings-xi-punjab-banner": {
-  backgroundImage:`url(${BANNER_IMG["kings-xi-punjab"]["img-huddle"].default})`,
+  backgroundImage:`url(${BANNER_IMG["kings-xi-punjab"]["img-huddle"]})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "100% 0",
   backgroundSize: "auto 100%",
@@ -107,7 +107,7 @@ const data:map={"chennai-super-kings-banner":
   }
 },
 "royal-challengers-bangalore-banner": {
-  backgroundImage:`url(${BANNER_IMG["royal-challengers-bangalore"]["img-huddle"].default})`,
+  backgroundImage:`url(${BANNER_IMG["royal-challengers-bangalore"]["img-huddle"]})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "100% 0",
   backgroundSize: "auto 100%",
@@ -127,7 +127,7 @@ const data:map={"chennai-super-kings-banner":
   }
 },
 "sunrisers-hyderabad-banner": {
-  backgroundImage:`url(${BANNER_IMG["sunrisers-hyderabad"]["img-huddle"].default})`,
+  backgroundImage:`url(${BANNER_IMG["sunrisers-hyderabad"]["img-huddle"]})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "100% 0",
   backgroundSize: "auto 100%",
@@ -147,7 +147,7 @@ const data:map={"chennai-super-kings-banner":
   }
 },
 "kolkata-knight-riders-banner": {
-  backgroundImage:`url(${BANNER_IMG["kolkata-knight-riders"]["img-huddle"].default})`,
+  backgroundImage:`url(${BANNER_IMG["kolkata-knight-riders"]["img-huddle"]})`,
   backgroundRepeat: "no-repeat",
   backgroundPosition: "100% 0",
   backgroundSize: "auto 100%",
@@ -258,7 +258,7 @@ const data:map={"chennai-super-kings-banner":
   position: "absolute",
   right: "0",
   top: "0",
-  backgroundImage:`url(${BANNER_IMG["chennai-super-kings"].img.default})`,
+  backgroundImage:`url(${BANNER_IMG["chennai-super-kings"].img})`,
   opacity: "0.2",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
@@ -271,7 +271,7 @@ const data:map={"chennai-super-kings-banner":
   position: "absolute",
   right: "0",
   top: "0",
-  backgroundImage:`url(${BANNER_IMG["delhi-capitals"].img.default})`,
+  backgroundImage:`url(${BANNER_IMG["delhi-capitals"].img})`,
   opacity: "0.2",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
@@ -284,7 +284,7 @@ const data:map={"chennai-super-kings-banner":
   position: "absolute",
   right: "0",
   top: "0",
-  backgroundImage:`url(${BANNER_IMG["mumbai-indians"].img.default})`,
+  backgroundImage:`url(${BANNER_IMG["mumbai-indians"].img})`,
   opacity: "0.2",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
@@ -297,7 +297,7 @@ const data:map={"chennai-super-kings-banner":
   position: "absolute",
   right: "0",
   top: "0",
-  backgroundImage:`url(${BANNER_IMG["rajasthan-royals"].img.default})`,
+  backgroundImage:`url(${BANNER_IMG["rajasthan-royals"].img})`,
   opacity: "0.2",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
@@ -310,7 +310,7 @@ const data:map={"chennai-super-kings-banner":
   position: "absolute",
   right: "0",
   top: "0",
-  backgroundImage:`url(${BANNER_IMG["kings-xi-punjab"].img.default})`,
+  backgroundImage:`url(${BANNER_IMG["kings-xi-punjab"].img})`,
   opacity: "0.2",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
@@ -323,7 +323,7 @@ const data:map={"chennai-super-kings-banner":
   position: "absolute",
   right: "0",
   top: "0",
-  backgroundImage:`url(${BANNER_IMG["royal-challengers-bangalore"].img.default})`,
+  backgroundImage:`url(${BANNER_IMG["royal-challengers-bangalore"].img})`,
   opacity: "0.2",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
@@ -336,7 +336,7 @@ const data:map={"chennai-super-kings-banner":
   position: "absolute",
   right: "0",
   top: "0",
-  backgroundImage:`url(${BANNER_IMG["sunrisers-hyderabad"].img.default})`,
+  backgroundImage:`url(${BANNER_IMG["sunrisers-hyderabad"].img})`,
   opacity: "0.2",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",
@@ -349,7 +349,7 @@ const data:map={"chennai-super-kings-banner":
   position: "absolute",
   right: "0",
   top: "0",
-  backgroundImage:`url(${BANNER_IMG["kolkata-knight-riders"].img.default})`,
+  backgroundImage:`url(${BANNER_IMG["kolkata-knight-riders"].img})`,
   opacity: "0.2",
   backgroundSize: "cover",
   backgroundRepeat: "no-repeat",

@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 export default class ErrorBoundry extends Component {
     state:{hasError:boolean}
-    constructor(props:any) {
+    constructor(props:{}) {
         super(props);
         this.state = { hasError: false };
       }

@@ -27,7 +27,7 @@ function Card(props:{img:string,data:{id:string,teamName:string, venue:string, w
         {data.winningYears.length ? (
           <div className={style.win}>
             <i className="fas fa-trophy">
-              {data.winningYears.map((item:any) => {
+              {data.winningYears.map((item:string) => {
                 return `  ${item}  `;
               })}
             </i>
