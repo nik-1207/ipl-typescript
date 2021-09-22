@@ -1,5 +1,7 @@
-export function subscribe(eventClass: any, handler: any) {
-  const modifiedHandler = (event: any) => {
+import { LoadingEvent } from "../event/LoadingEvent";
+
+export function subscribe(eventClass: typeof LoadingEvent ,handler:(isLoading:boolean)=>void) {
+  const modifiedHandler = (event:{[key:string]:any}) => {
     handler(event.detail);
   };
   document.addEventListener(eventClass.name, modifiedHandler, {
@@ -7,14 +9,14 @@ export function subscribe(eventClass: any, handler: any) {
   });
   return {
     unsubscribe: function unsubscribe() {
-      document.removeEventListener(eventClass.name, handler);
+      document.removeEventListener(eventClass.name,modifiedHandler);
     },
   };
 }
 
-export function publish(event:any) {
+export function publish(event: LoadingEvent) {
   let nativeEvent = new CustomEvent(event.constructor.name, {
-    detail: event.args,
+    detail: event.isLoading,
   });
   document.dispatchEvent(nativeEvent);
 }
