@@ -3,14 +3,15 @@ import { useHistory } from "react-router-dom";
 import TeamCardStyle from "../styles/TeamCardStyle";
 import TeamCardColour from "../styles/TeamCardColour";
 
-function Card(props:any) {
+function Card(props:{img:string,data:{id:string,teamName:string, venue:string, winningYears:[]}})
+{
     
   const { img, data } = props;
-  const history = useHistory();
-  const style = TeamCardStyle();
-  const colour=TeamCardColour();
+  const history= useHistory<unknown>();
+  const style:{teamCard:string,image:string,tab:string,teamName:string,venue:string,win:string,teamHome:string,arrow:string} = TeamCardStyle();
+  const colour:{[key:string]:string}=TeamCardColour();
 
-  const clickHandler = useCallback(() => {
+  const clickHandler= useCallback(() => {
     history.push(`teams/${data.id}`);
   }, [data, history]);
 

@@ -6,7 +6,7 @@ import ContainerStyle from "../styles/TeamContainerStyle";
 
 function CardContainer(){
   const teamName:string=window.location.pathname.slice(7);
-  const [TeamData, setTeamData] = useState<[{}]>();
+  const [TeamData, setTeamData] = useState<[{id:string,teamName:string, venue:string, winningYears:[]}]>();
   const style:{cardcontainer:string}= ContainerStyle();
   useEffect(() => {
     axiosCall(setTeamData,teamName)
