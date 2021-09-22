@@ -15,7 +15,7 @@ function TeamDetails() {
   }, [teamName]);
   return (
     <>
-      {players && (
+      {TeamData.players.length>0 && (
         <>
           <div className={Bstyle[`${teamName}-banner`]}>
             <div className={Bstyle[`${teamName}-overlay`]}>

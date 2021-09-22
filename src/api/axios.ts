@@ -5,25 +5,14 @@ import URL from "../config/UrlMap";
 export default async function getAllTeamData(callBackData:any, teamName:string)
 {
   const url=URL[teamName]
-  if(url==='https://ipl-t20.herokuapp.com/teams')
-  {
-
-    await axios.get(url).then((res) => {
-      callBackData(res.data);
-    }).catch(()=>
-    {
-      callBackData("Blocked Url")
-    });
-  }else if(url)
+ if(url)
   {
     await axios.get(url).then((res) => {
       callBackData(res.data);
-    }).catch(()=>
-    {
-      callBackData({players:["Blocked Url"]})
     })
   }
   else{
+    console.log("claaed")
     callBackData("invalid  url")
   }
 

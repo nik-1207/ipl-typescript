@@ -14,6 +14,9 @@ const TeamDetails = lazy(() => import('./pages/TeamDetails'));function App() {
         <Switch>
           <Route path="/" exact component={AllTeams} />
           <Route path="/teams/:url" exact component={TeamDetails} />
+          <Route>
+            <h1>Not Found</h1>
+            </Route>
         </Switch>
         </Suspense>
       </Router>
