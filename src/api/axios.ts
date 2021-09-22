@@ -2,17 +2,18 @@ import axios from "axios";
 import { LoadingEvent } from "../event/LoadingEvent";
 import { publish } from "../config/PubSub";
 import URL from "../config/UrlMap";
-export default async function getAllTeamData(callBackData:any, teamName:string)
-{
+import { Dispatch, SetStateAction } from "react";
+export default async function getAllTeamData(callBackData:Dispatch<SetStateAction<unknown>>, teamName:string)
+{console.log("called")
   const url=URL[teamName]
  if(url)
   {
     await axios.get(url).then((res) => {
-      callBackData(res.data);
+      const data=res.data
+      callBackData(data);
     })
   }
   else{
-    console.log("claaed")
     callBackData("invalid  url")
   }
 
