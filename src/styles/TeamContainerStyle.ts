@@ -1,6 +1,8 @@
 import { createUseStyles } from "react-jss";
-
-const CONTAINER_STYLE = createUseStyles({
+interface map{
+  [key:string]:{}
+}
+const data:map={
   cardcontainer: {
     display: "flex",
     flexWrap: " wrap",
@@ -12,5 +14,6 @@ const CONTAINER_STYLE = createUseStyles({
       padding: "5px",
     },
   },
-});
+}
+const CONTAINER_STYLE = createUseStyles(data);
 export default CONTAINER_STYLE;

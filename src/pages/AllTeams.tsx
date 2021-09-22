@@ -12,7 +12,7 @@ interface teamDataType {
 }
 function CardContainer() {
   const teamName: string = window.location.pathname.slice(7);
-  const style: { cardcontainer: string } = ContainerStyle();
+  const style = ContainerStyle();
   const [TeamData, setTeamData]: [unknown, Dispatch<SetStateAction<unknown>>] =
     useState();
   useEffect(() => {

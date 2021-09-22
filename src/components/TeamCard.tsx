@@ -30,7 +30,7 @@ function Card(props: teamDataType) {
 
   const clickHandler = useCallback(() => {
     history.push(`teams/${id}`);
-  }, [history]);
+  }, [id,history]);
 
   return (
     <div className={`${style.teamCard} ${colour[id]}`} onClick={clickHandler}>
