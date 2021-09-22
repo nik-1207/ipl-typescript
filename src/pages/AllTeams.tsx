@@ -4,10 +4,10 @@ import LogoMap from "../config/LogoMap";
 import Card from "../components/TeamCard";
 import ContainerStyle from "../styles/TeamContainerStyle";
 
-function CardContainer() {
-  const teamName=window.location.pathname.slice(7);
-  const [TeamData, setTeamData] = useState();
-  const style = ContainerStyle();
+function CardContainer(){
+  const teamName:string=window.location.pathname.slice(7);
+  const [TeamData, setTeamData] = useState<[{}]>();
+  const style:{cardcontainer:string}= ContainerStyle();
   useEffect(() => {
     axiosCall(setTeamData,teamName)
   }, [teamName]);
@@ -15,7 +15,8 @@ function CardContainer() {
   return (
     <>
       {TeamData &&( <div className={style.cardcontainer}>
-          {Object.keys(LogoMap).map((key, index) => {
+          {Object.keys(LogoMap).map((key:string, index:number) => 
+          {
             return (
               <Card
                 img={LogoMap[key]}
