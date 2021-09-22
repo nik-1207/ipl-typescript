@@ -23,7 +23,7 @@ function TeamDetails() {
             </div>
           </div>
           <div className={style.teamContainer}>
-            {players.map((item: {id:string,image:unknown,name:string,stats:{matches:number,runs:number,wickets:number}}) => {
+            {players.map((item: {id:string,image:string,name:string,stats:{matches:number,runs:number,wickets:number}}) => {
               return (
                 <PlayerCard
                   teamName={teamName}

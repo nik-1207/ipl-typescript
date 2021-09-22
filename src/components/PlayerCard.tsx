@@ -1,9 +1,7 @@
 import React from "react";
 import PlayerCardStyle from "../styles/PlayerCardStyle";
-import PlayerCardColour from "../styles/PlayerCardColourStyle";
-function PlayerCard(props:any) {
-const style=PlayerCardStyle();
-const colour=PlayerCardColour();
+function PlayerCard(props:{teamName:string,img:string,name:string,matches:number,runs:number,wickets:number}) {
+const style:{[key:string]:any}=PlayerCardStyle();
   const { img, name, matches, runs, wickets,teamName } = props;
   return (
     <div className={style.playerCard}>

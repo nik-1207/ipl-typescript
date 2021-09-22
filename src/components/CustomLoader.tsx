@@ -4,9 +4,9 @@ import { LoadingEvent } from "../event/LoadingEvent";
 import { subscribe } from "../config/PubSub";
 
 export default function CustomLoader() {
-  const [loading, setloading] = useState();
+  const [loading, setloading] = useState<boolean>();
   useEffect(() => {
-    const handle = subscribe(LoadingEvent, (args: any) => {
+    const handle = subscribe(LoadingEvent, (args:{isLoading:boolean}) => {
       setloading(args.isLoading);
     });
     return () => {
