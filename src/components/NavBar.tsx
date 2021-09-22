@@ -4,7 +4,7 @@ import NavStyle from "../styles/NavStyle";
 import LOGO from "../assets/ipl-logo.png";
 
 function Navbar() {
-  const style = NavStyle();
+  const style:{[key:string]:any} = NavStyle();
   return (
     <nav className={style.navbar}>
       <img className={style.logoImage} src={LOGO} alt="ipl-logo" />

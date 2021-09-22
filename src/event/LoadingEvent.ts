@@ -1,5 +1,5 @@
 export class LoadingEvent {
-    args:any
-    constructor(args:any) {
-      this.args =args    }
+    isLoading:boolean
+    constructor(args:boolean) {
+      this.isLoading =args    }
   }
