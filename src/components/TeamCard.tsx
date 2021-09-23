@@ -2,32 +2,46 @@ import { useCallback } from "react";
 import { useHistory } from "react-router-dom";
 import TeamCardStyle from "../styles/TeamCardStyle";
 import TeamCardColour from "../styles/TeamCardColour";
+interface teamDataType {
+  img: string;
+  id: string;
+  teamName: string;
+  venue: string;
+  winningYears: [number];
+}
+interface teamCardStyleType {
+  teamCard: string;
+  image: string;
+  tab: string;
+  teamName: string;
+  venue: string;
+  win: string;
+  teamHome: string;
+  arrow: string;
+}
+interface teamColourType {
+  [key: string]: string;
+}
+function Card(props: teamDataType) {
+  const { img, id, teamName, venue, winningYears } = props;
+  const history = useHistory<unknown>();
+  const style: teamCardStyleType = TeamCardStyle();
+  const colour: teamColourType = TeamCardColour();
 
-function Card(props:{img:string,data:{id:string,teamName:string, venue:string, winningYears:[]}})
-{
-    
-  const { img, data } = props;
-  const history= useHistory<unknown>();
-  const style:{teamCard:string,image:string,tab:string,teamName:string,venue:string,win:string,teamHome:string,arrow:string} = TeamCardStyle();
-  const colour:{[key:string]:string}=TeamCardColour();
-
-  const clickHandler= useCallback(() => {
-    history.push(`teams/${data.id}`);
-  }, [data, history]);
+  const clickHandler = useCallback(() => {
+    history.push(`teams/${id}`);
+  }, [id,history]);
 
   return (
-    <div
-      className={`${style.teamCard} ${colour[data.id]}`}
-      onClick={clickHandler}
-    >
+    <div className={`${style.teamCard} ${colour[id]}`} onClick={clickHandler}>
       <img className={style.image} src={img} alt="team-logo" />
       <div className={style.tab}>
-        <h2 className={style.teamName}>{data.teamName}</h2>
-        <h4 className={style.venue}>{data.venue}</h4>
-        {data.winningYears.length ? (
+        <h2 className={style.teamName}>{teamName}</h2>
+        <h4 className={style.venue}>{venue}</h4>
+        {winningYears.length ? (
           <div className={style.win}>
             <i className="fas fa-trophy">
-              {data.winningYears.map((item:string) => {
+              {winningYears.map((item: number) => {
                 return `  ${item}  `;
               })}
             </i>
