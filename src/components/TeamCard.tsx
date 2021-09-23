@@ -37,7 +37,7 @@ function Card(props: teamDataType) {
       <img className={style.image} src={img} alt="team-logo" />
       <div className={style.tab}>
         <h2 className={style.teamName}>{teamName}</h2>
-        <h4 className={style.venue}>{venue}</h4>
+        <h3 className={style.venue}>{venue}</h3>
         {winningYears.length ? (
           <div className={style.win}>
             <i className="fas fa-trophy">
