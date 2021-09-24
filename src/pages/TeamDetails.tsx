@@ -1,30 +1,31 @@
-import { Dispatch, SetStateAction, useEffect, useState } from 'react'
-import BannerStyle from '../styles/BannerStyle'
-import Container from '../styles/PlayerContainerStyles'
-import PlayerCard from '../components/PlayerCard'
-import axiosCall from '../api/axios'
+import { Dispatch, SetStateAction, useEffect, useState } from "react";
+import BannerStyle from "../styles/BannerStyle";
+import Container from "../styles/PlayerContainerStyles";
+import PlayerCard from "../components/PlayerCard";
+import axiosCall from "../api/axios";
 interface TeamDataMap {
   players: [
     {
-      id: string
-      image: string
-      name: string
-      nationality: string
-      stats: { [key: string]: number }
+      id: string;
+      image: string;
+      name: string;
+      nationality: string;
+      stats: { [key: string]: number };
     }
-  ]
-  team: { [key: string]: string }
+  ];
+  team: { [key: string]: string };
 }
 
 function TeamDetails() {
-  const teamName: string = window.location.pathname.slice(7)
-  const Bstyle: { [key: string]: string } = BannerStyle()
-  const style: { teamContainer: string } = Container()
-  const [TeamData, setTeamData]: [unknown, Dispatch<SetStateAction<unknown>>] = useState()
+  const teamName: string = window.location.pathname.slice(7);
+  const Bstyle: { [key: string]: string } = BannerStyle();
+  const style: { teamContainer: string } = Container();
+  const [TeamData, setTeamData]: [unknown, Dispatch<SetStateAction<unknown>>] =
+    useState();
   useEffect(() => {
-    axiosCall(setTeamData, teamName)
-  }, [teamName])
-  const data = TeamData as TeamDataMap
+    axiosCall(setTeamData, teamName);
+  }, [teamName]);
+  const data = TeamData as TeamDataMap;
   return (
     <>
       {data && (
@@ -46,13 +47,13 @@ function TeamDetails() {
                   runs={item.stats.runs}
                   wickets={item.stats.wickets}
                 />
-              )
+              );
             })}
           </div>
         </>
       )}
     </>
-  )
+  );
 }
 
-export default TeamDetails
+export default TeamDetails;

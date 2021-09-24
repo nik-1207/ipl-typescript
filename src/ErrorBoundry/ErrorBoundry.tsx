@@ -1,19 +1,19 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 export default class ErrorBoundry extends Component {
-  state: { hasError: boolean }
+  state: { hasError: boolean };
   constructor(props: {}) {
-    super(props)
-    this.state = { hasError: false }
+    super(props);
+    this.state = { hasError: false };
   }
 
   static getDerivedStateFromError() {
-    return { hasError: true }
+    return { hasError: true };
   }
 
   render() {
     if (this.state.hasError) {
-      return <h1>Something Went Wrong</h1>
+      return <h1>Something Went Wrong</h1>;
     }
-    return this.props.children
+    return this.props.children;
   }
 }

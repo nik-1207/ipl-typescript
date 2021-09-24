@@ -1,6 +1,6 @@
 export class LoadingEvent {
-  isLoading: boolean
+  isLoading: boolean;
   constructor(args: boolean) {
-    this.isLoading = args
+    this.isLoading = args;
   }
 }

@@ -1,10 +1,10 @@
-import React from 'react'
-import NavStyle from '../styles/NavStyle'
+import React from "react";
+import NavStyle from "../styles/NavStyle";
 
-import LOGO from '../assets/ipl-logo.png'
+import LOGO from "../assets/ipl-logo.png";
 
 function Navbar() {
-  const style = NavStyle()
+  const style = NavStyle();
   return (
     <nav title="navbar" className={style.navbar}>
       <img className={style.logoImage} src={LOGO} alt="ipl-logo" />
@@ -12,7 +12,7 @@ function Navbar() {
         INDIAN PREMIRE LEAGUE
       </h1>
     </nav>
-  )
+  );
 }
 
-export default Navbar
+export default Navbar;
