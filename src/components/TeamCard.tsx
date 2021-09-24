@@ -1,36 +1,36 @@
-import { useCallback } from "react";
-import { useHistory } from "react-router-dom";
-import TeamCardStyle from "../styles/TeamCardStyle";
-import TeamCardColour from "../styles/TeamCardColour";
-interface teamDataType {
-  img: string;
-  id: string;
-  teamName: string;
-  venue: string;
-  winningYears: [number];
+import { useCallback } from 'react'
+import { useHistory } from 'react-router-dom'
+import TeamCardStyle from '../styles/TeamCardStyle'
+import TeamCardColour from '../styles/TeamCardColour'
+interface TeamDataType {
+  img: string
+  id: string
+  teamName: string
+  venue: string
+  winningYears: [number]
 }
-interface teamCardStyleType {
-  teamCard: string;
-  image: string;
-  tab: string;
-  teamName: string;
-  venue: string;
-  win: string;
-  teamHome: string;
-  arrow: string;
+interface TeamCardStyleType {
+  teamCard: string
+  image: string
+  tab: string
+  teamName: string
+  venue: string
+  win: string
+  teamHome: string
+  arrow: string
 }
-interface teamColourType {
-  [key: string]: string;
+interface TeamColourType {
+  [key: string]: string
 }
-function Card(props: teamDataType) {
-  const { img, id, teamName, venue, winningYears } = props;
-  const history = useHistory<unknown>();
-  const style: teamCardStyleType = TeamCardStyle();
-  const colour: teamColourType = TeamCardColour();
+function Card(props: TeamDataType) {
+  const { img, id, teamName, venue, winningYears } = props
+  const history = useHistory<unknown>()
+  const style: TeamCardStyleType = TeamCardStyle()
+  const colour: TeamColourType = TeamCardColour()
 
   const clickHandler = useCallback(() => {
-    history.push(`teams/${id}`);
-  }, [id,history]);
+    history.push(`teams/${id}`)
+  }, [id, history])
 
   return (
     <div className={`${style.teamCard} ${colour[id]}`} onClick={clickHandler}>
@@ -42,7 +42,7 @@ function Card(props: teamDataType) {
           <div className={style.win}>
             <i className="fas fa-trophy">
               {winningYears.map((item: number) => {
-                return `  ${item}  `;
+                return `  ${item}  `
               })}
             </i>
           </div>
@@ -51,9 +51,9 @@ function Card(props: teamDataType) {
         )}
       </div>
       <p className={style.teamHome}> Team Home</p>
-      <i className={`fas fa-angle-right tab-arrow ${style.arrow}`}></i>
+      <i className={`fas fa-angle-right tab-arrow ${style.arrow}`} />
     </div>
-  );
+  )
 }
 
-export default Card;
+export default Card

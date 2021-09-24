@@ -1,16 +1,16 @@
-import React from "react";
-import PlayerCardStyle from "../styles/PlayerCardStyle";
+import React from 'react'
+import PlayerCardStyle from '../styles/PlayerCardStyle'
 interface TeamDetailType {
-  teamName: string;
-  img: string;
-  name: string;
-  matches: number;
-  runs: number;
-  wickets: number;
+  teamName: string
+  img: string
+  name: string
+  matches: number
+  runs: number
+  wickets: number
 }
 function PlayerCard(props: TeamDetailType) {
-  const style = PlayerCardStyle();
-  const { img, name, matches, runs, wickets, teamName } = props;
+  const style = PlayerCardStyle()
+  const { img, name, matches, runs, wickets, teamName } = props
   return (
     <div className={style.playerCard}>
       <div className={style[teamName]}>
@@ -38,7 +38,7 @@ function PlayerCard(props: TeamDetailType) {
         <button className={style.button}>View Profile</button>
       </div>
     </div>
-  );
+  )
 }
 
-export default PlayerCard;
+export default PlayerCard

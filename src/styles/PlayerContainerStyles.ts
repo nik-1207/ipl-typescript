@@ -1,10 +1,10 @@
-import { createUseStyles } from "react-jss";
+import { createUseStyles } from 'react-jss'
 
 const PLAYER_CONTAINER = createUseStyles({
   teamContainer: {
-    display: "flex",
-    flexWrap: "wrap",
-    justifyContent: "center",
+    display: 'flex',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
   },
-});
-export default PLAYER_CONTAINER;
+})
+export default PLAYER_CONTAINER
