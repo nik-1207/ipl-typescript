@@ -1,23 +1,24 @@
-import { Dispatch, SetStateAction, useEffect, useState } from 'react'
-import axiosCall from '../api/axios'
-import LogoMap from '../config/LogoMap'
-import Card from '../components/TeamCard'
-import ContainerStyle from '../styles/TeamContainerStyle'
+import { Dispatch, SetStateAction, useEffect, useState } from "react";
+import axiosCall from "../api/axios";
+import LogoMap from "../config/LogoMap";
+import Card from "../components/TeamCard";
+import ContainerStyle from "../styles/TeamContainerStyle";
 
 interface TeamDataType {
-  id: string
-  teamName: string
-  venue: string
-  winningYears: [number]
+  id: string;
+  teamName: string;
+  venue: string;
+  winningYears: [number];
 }
 function CardContainer() {
-  const teamName: string = window.location.pathname.slice(7)
-  const style = ContainerStyle()
-  const [TeamData, setTeamData]: [unknown, Dispatch<SetStateAction<unknown>>] = useState()
+  const teamName: string = window.location.pathname.slice(7);
+  const style = ContainerStyle();
+  const [TeamData, setTeamData]: [unknown, Dispatch<SetStateAction<unknown>>] =
+    useState();
   useEffect(() => {
-    axiosCall(setTeamData, teamName)
-  }, [teamName])
-  const data = TeamData as [TeamDataType]
+    axiosCall(setTeamData, teamName);
+  }, [teamName]);
+  const data = TeamData as [TeamDataType];
   return (
     <>
       {data && (
@@ -32,12 +33,12 @@ function CardContainer() {
                 venue={data[index].venue}
                 winningYears={data[index].winningYears}
               />
-            )
+            );
           })}
         </div>
       )}
     </>
-  )
+  );
 }
 
-export default CardContainer
+export default CardContainer;
