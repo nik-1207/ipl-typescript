@@ -34,7 +34,7 @@ function Card(props: TeamDataType) {
 
   return (
     <div className={`${style.teamCard} ${colour[id]}`} onClick={clickHandler}>
-      <img className={style.image} src={img} alt="team-logo" height="159" width="157" />
+      <img className={style.image} src={img} alt="team-logo" />
       <div className={style.tab}>
         <h2 className={style.teamName}>{teamName}</h2>
         <h3 className={style.venue}>{venue}</h3>
