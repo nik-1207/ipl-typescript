@@ -15,7 +15,6 @@ const TeamCardStyle = createUseStyles({
   },
   image: {
     marginTop: ' -10px',
-    width: '50%',
     position: 'relative',
   },
   arrow: {

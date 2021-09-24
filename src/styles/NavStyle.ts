@@ -2,7 +2,7 @@ import { createUseStyles } from 'react-jss'
 
 const NavStyle = createUseStyles({
   logoImage: {
-    height: '50px',
+    height: '57px',
     width: '40px',
     margin: '15px',
   },
