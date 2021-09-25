@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`navbar snapshot testing 1`] = `
+<div
+  className="teamCard-0-2-1 chennai-super-kings-0-2-9"
+  onClick={[Function]}
+>
+  <img
+    alt="team-logo"
+    className="image-0-2-2"
+    src="http://localhost:3000/static/media/csk-logo.b5134acf.png"
+  />
+  <div
+    className="tab-0-2-8"
+  >
+    <h2
+      className="teamName-0-2-6"
+    >
+      Chennai Super Kings
+    </h2>
+    <h3
+      className="venue-0-2-7"
+    >
+      M. A. Chidambaram Stadium
+    </h3>
+    <div
+      className="win-0-2-4"
+    >
+      <i
+        className="fas fa-trophy"
+      >
+          2010  
+          2011  
+          2018  
+      </i>
+    </div>
+  </div>
+  <p
+    className="teamHome-0-2-5"
+  >
+     Team Home
+  </p>
+  <i
+    className="fas fa-angle-right tab-arrow arrow-0-2-3"
+  />
+</div>
+`;
