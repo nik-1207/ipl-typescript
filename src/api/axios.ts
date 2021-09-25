@@ -1,8 +1,8 @@
 import axios, { AxiosRequestConfig } from "axios";
-import { LoadingEvent } from "../event/LoadingEvent";
+import { Dispatch, SetStateAction } from "react";
 import { publish } from "../config/PubSub";
 import URL from "../config/UrlMap";
-import { Dispatch, SetStateAction } from "react";
+import { LoadingEvent } from "../event/LoadingEvent";
 export default async function getAllTeamData(
   callBackData: Dispatch<SetStateAction<unknown>>,
   teamName: string

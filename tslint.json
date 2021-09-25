@@ -3,12 +3,10 @@
   "rulesDirectory": ["tslint-plugin-prettier"],
   "rules": {
     "prettier": true,
-    "interface-name": false,
-    "strict-type-predicates": false,
-    "ordered-imports": false,
-    "object-literal-sort-keys": false,
-    "member-ordering": false,
-    "jsx-no-lambda": false,
-    "jsx-boolean-value": false
+    "strict-type-predicates": true,
+    "ordered-imports": true,
+    "member-ordering": true,
+    "jsx-no-lambda": true,
+    "jsx-boolean-value": true
   }
 }

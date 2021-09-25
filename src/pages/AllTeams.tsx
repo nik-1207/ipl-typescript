@@ -1,7 +1,7 @@
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
 import axiosCall from "../api/axios";
-import LogoMap from "../config/LogoMap";
 import Card from "../components/TeamCard";
+import LogoMap from "../config/LogoMap";
 import ContainerStyle from "../styles/TeamContainerStyle";
 
 interface TeamDataType {

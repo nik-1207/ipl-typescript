@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
 import App from "./App";
-import reportWebVitals from "./reportWebVitals";
-import ErrorBoundry from "./ErrorBoundry/ErrorBoundry";
 import CustomLoader from "./components/CustomLoader";
+import ErrorBoundry from "./ErrorBoundry/ErrorBoundry";
+import "./index.css";
+import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>

@@ -1,7 +1,7 @@
 import { useCallback } from "react";
 import { useHistory } from "react-router-dom";
-import TeamCardStyle from "../styles/TeamCardStyle";
 import TeamCardColour from "../styles/TeamCardColour";
+import TeamCardStyle from "../styles/TeamCardStyle";
 interface TeamDataType {
   img: string;
   id: string;

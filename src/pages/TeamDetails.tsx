@@ -1,8 +1,8 @@
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
+import axiosCall from "../api/axios";
+import PlayerCard from "../components/PlayerCard";
 import BannerStyle from "../styles/BannerStyle";
 import Container from "../styles/PlayerContainerStyles";
-import PlayerCard from "../components/PlayerCard";
-import axiosCall from "../api/axios";
 interface TeamDataMap {
   players: [
     {

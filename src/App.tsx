@@ -1,9 +1,9 @@
-import { Route, BrowserRouter as Router, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
+import { lazy, Suspense } from "react";
 import "./App.css";
-import Navbar from "./components/NavBar";
-import { Suspense, lazy } from "react";
 import CustomLoader from "./components/CustomLoader";
+import Navbar from "./components/NavBar";
 const AllTeams = lazy(() => import("./pages/AllTeams"));
 const TeamDetails = lazy(() => import("./pages/TeamDetails"));
 function App() {
