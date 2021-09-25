@@ -1,7 +1,7 @@
 import renderer from "react-test-renderer";
 import PlayerCard from "../components/PlayerCard";
 
-it("navbar snapshot testing", () => {
+it("player card snapshot testing", () => {
   const fakename = "MS Dhoni";
   const fakeimage = "https://iplstatic.s3.amazonaws.com/players/210/1.png";
   const fakematches = 15;

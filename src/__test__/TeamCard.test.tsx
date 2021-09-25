@@ -1,7 +1,7 @@
 import renderer from "react-test-renderer";
 import TeamCard from "../components/TeamCard";
 
-it("navbar snapshot testing", () => {
+it("TeamCard snapshot testing", () => {
   const fakeid = "chennai-super-kings";
   const faketeamName = "Chennai Super Kings";
   const fakewinningYears = [2010, 2011, 2018];
