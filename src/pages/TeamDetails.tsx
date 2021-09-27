@@ -1,8 +1,10 @@
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
+import { lazy, Suspense } from "react";
+import Loader from "react-loader-spinner";
 import axiosCall from "../api/ApiCall";
-import PlayerCard from "../components/PlayerCard";
 import BannerStyle from "../styles/BannerStyle";
 import Container from "../styles/PlayerContainerStyles";
+const PlayerCard = lazy(() => import("../components/PlayerCard"));
 interface TeamDataMap {
   players: [
     {
@@ -27,7 +29,13 @@ function TeamDetails() {
   }, [teamName]);
   const data = TeamData as TeamDataMap;
   return (
-    <>
+    <Suspense
+      fallback={
+        <div className={"loader"}>
+          <Loader type="TailSpin" color="#00BFFF" height={80} width={80} />
+        </div>
+      }
+    >
       {data && (
         <>
           <div className={Bstyle[`${teamName}-banner`]}>
@@ -53,7 +61,7 @@ function TeamDetails() {
           </div>
         </>
       )}
-    </>
+    </Suspense>
   );
 }
 
