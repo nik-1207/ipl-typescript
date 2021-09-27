@@ -1,5 +1,5 @@
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
-import axiosCall from "../api/axios";
+import axiosCall from "../api/ApiCall";
 import Card from "../components/TeamCard";
 import LogoMap from "../config/LogoMap";
 import ContainerStyle from "../styles/TeamContainerStyle";
@@ -26,6 +26,7 @@ function CardContainer() {
           {Object.keys(LogoMap).map((key: string, index: number) => {
             return (
               <Card
+                data-testid="cards"
                 img={LogoMap[key]}
                 key={index}
                 id={data[index].id}

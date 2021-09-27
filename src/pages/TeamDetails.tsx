@@ -1,5 +1,5 @@
 import { Dispatch, SetStateAction, useEffect, useState } from "react";
-import axiosCall from "../api/axios";
+import axiosCall from "../api/ApiCall";
 import PlayerCard from "../components/PlayerCard";
 import BannerStyle from "../styles/BannerStyle";
 import Container from "../styles/PlayerContainerStyles";
