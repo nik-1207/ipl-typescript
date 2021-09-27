@@ -39,6 +39,7 @@ function TeamDetails() {
             {data.players.map((item) => {
               return (
                 <PlayerCard
+                  data-testid="cards"
                   teamName={teamName}
                   key={item.id}
                   img={item.image}

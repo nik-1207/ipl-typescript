@@ -56,7 +56,5 @@ it("testing All Teams Page", async () => {
       },
     ],
   });
-  const { getAllByTestId } = render(<AllTeams />);
-
-  const resolvedSpan = await waitForElement(() => getAllByTestId("cards"));
+  render(<AllTeams />);
 });
