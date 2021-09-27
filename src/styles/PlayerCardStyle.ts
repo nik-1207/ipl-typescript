@@ -1,5 +1,4 @@
 import { createUseStyles } from "react-jss";
-
 interface Map {
   [key: string]: {};
 }

@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Player card 1`] = `
+<div
+  class="playerCard-0-2-1"
+  data-testid="player-card"
+>
+  <div
+    class="chennai-super-kings-0-2-9"
+  >
+    <img
+      alt="MS Dhoni"
+      class="chennai-super-kings-0-2-9"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-2"
+  >
+    <p
+      class="name-0-2-3"
+    >
+      MS Dhoni
+    </p>
+    <ul
+      class="stats-0-2-4"
+    >
+      <li
+        class="listItem-0-2-5"
+      >
+        <span
+          class="value-0-2-6"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-7"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-5"
+      >
+        <span
+          class="value-0-2-6"
+        >
+          416
+        </span>
+        <br />
+        <span
+          class="label-0-2-7"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-5"
+      >
+        <span
+          class="value-0-2-6"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-7"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-8"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;

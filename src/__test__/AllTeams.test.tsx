@@ -1,6 +1,5 @@
 import { render, screen } from "@testing-library/react";
 import axios from "axios";
-import renderer from "react-test-renderer";
 import AllTeams from "../pages/AllTeams";
 const mockedAxios = axios as jest.Mocked<typeof axios>;
 it("testing All Teams Page", async () => {

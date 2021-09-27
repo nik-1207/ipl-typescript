@@ -7,7 +7,7 @@ interface TeamDataType {
   id: string;
   teamName: string;
   venue: string;
-  winningYears: [number];
+  winningYears: number[];
 }
 interface TeamCardStyleType {
   teamCard: string;

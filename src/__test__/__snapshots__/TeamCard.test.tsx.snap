@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing Player card 1`] = `
+<div
+  class="teamCard-0-2-1 chennai-super-kings-0-2-9"
+  data-testid="cards-teams"
+>
+  <img
+    alt="team-logo"
+    class="image-0-2-2"
+    src=""
+  />
+  <div
+    class="tab-0-2-8"
+  >
+    <h2
+      class="teamName-0-2-6"
+    >
+      Chennai Super Kings
+    </h2>
+    <h3
+      class="venue-0-2-7"
+    >
+      M. A. Chidambaram Stadium
+    </h3>
+    <div
+      class="win-0-2-4"
+    >
+      <i
+        class="fas fa-trophy"
+      >
+          2010  
+          2011  
+          2018  
+      </i>
+    </div>
+  </div>
+  <p
+    class="teamHome-0-2-5"
+  >
+     Team Home
+  </p>
+  <i
+    class="fas fa-angle-right tab-arrow arrow-0-2-3"
+  />
+</div>
+`;
