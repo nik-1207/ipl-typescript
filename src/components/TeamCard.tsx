@@ -33,7 +33,11 @@ function Card(props: TeamDataType) {
   }, [id, history]);
 
   return (
-    <div className={`${style.teamCard} ${colour[id]}`} onClick={clickHandler}>
+    <div
+      data-testid="cards"
+      className={`${style.teamCard} ${colour[id]}`}
+      onClick={clickHandler}
+    >
       <img className={style.image} src={img} alt="team-logo" />
       <div className={style.tab}>
         <h2 className={style.teamName}>{teamName}</h2>

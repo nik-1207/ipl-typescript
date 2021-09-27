@@ -26,7 +26,6 @@ function CardContainer() {
           {Object.keys(LogoMap).map((key: string, index: number) => {
             return (
               <Card
-                data-testid="cards"
                 img={LogoMap[key]}
                 key={index}
                 id={data[index].id}
