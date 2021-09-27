@@ -1,0 +1,6315 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing CSK Players 1`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="MS Dhoni"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      MS Dhoni
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          416
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 2`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Imran Tahir"
+      src="https://iplstatic.s3.amazonaws.com/players/210/898.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Imran Tahir
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          17
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          26
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 3`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Lungi Ngidi"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3746.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Lungi Ngidi
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          76
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          3
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 4`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ruthuraj Gaikwad"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5443.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ruthuraj Gaikwad
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          33
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 5`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Shane Watson"
+      src="https://iplstatic.s3.amazonaws.com/players/210/227.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Shane Watson
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          398
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 6`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ambati Rayudu"
+      src="https://iplstatic.s3.amazonaws.com/players/210/100.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ambati Rayudu
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          17
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          282
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 7`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Murali Vijay"
+      src="https://iplstatic.s3.amazonaws.com/players/210/7.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Murali Vijay
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          9
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          18
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 8`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Kedar Jadhav"
+      src="https://iplstatic.s3.amazonaws.com/players/210/297.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Kedar Jadhav
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          162
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 9`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ravindra Jadeja"
+      src="https://iplstatic.s3.amazonaws.com/players/210/9.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ravindra Jadeja
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          106
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 10`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Deepak Chahar"
+      src="https://iplstatic.s3.amazonaws.com/players/210/140.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Deepak Chahar
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          7
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          34
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing CSK Players 11`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Narayan Jagadeesan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4942.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Narayan Jagadeesan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 1`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Shreyas Iyer"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1563.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Shreyas Iyer
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          463
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 2`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Kagiso Rabada"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1664.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Kagiso Rabada
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          12
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          25
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 3`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ishant Sharma"
+      src="https://iplstatic.s3.amazonaws.com/players/210/38.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ishant Sharma
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          13
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          13
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 4`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Shikar Dhawan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/41.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Shikar Dhawan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          521
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 5`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Prithwi Shaw"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3764.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Prithwi Shaw
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          353
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 6`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Axar Patel"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1113.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Axar Patel
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          110
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 7`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Rishabh Pant"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2972.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Rishabh Pant
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          488
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 8`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Amit Mishra"
+      src="https://iplstatic.s3.amazonaws.com/players/210/30.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Amit Mishra
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          11
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          21
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          11
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 9`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Shreyas Iyer"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1563.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Shreyas Iyer
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          463
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 10`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Kagiso Rabada"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1664.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Kagiso Rabada
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          12
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          25
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 11`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ishant Sharma"
+      src="https://iplstatic.s3.amazonaws.com/players/210/38.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ishant Sharma
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          13
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          13
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 12`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Shikar Dhawan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/41.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Shikar Dhawan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          521
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 13`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Prithwi Shaw"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3764.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Prithwi Shaw
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          353
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 14`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Axar Patel"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1113.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Axar Patel
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          110
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 15`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Rishabh Pant"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2972.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Rishabh Pant
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          488
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing DC Players 16`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Amit Mishra"
+      src="https://iplstatic.s3.amazonaws.com/players/210/30.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Amit Mishra
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          11
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          21
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          11
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 1`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="KL Rahul"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1125.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      KL Rahul
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          593
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 2`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Harpreet Brar"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5441.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Harpreet Brar
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          2
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          20
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 3`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mandeep Singh"
+      src="https://iplstatic.s3.amazonaws.com/players/210/72.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mandeep Singh
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          13
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          165
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 4`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Karun Nair"
+      src="https://iplstatic.s3.amazonaws.com/players/210/276.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Karun Nair
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 5`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Arshdeep Singh"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4698.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Arshdeep Singh
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          6
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 6`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mujeeb Rahman"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4572.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mujeeb Rahman
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          3
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 7`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Sarfaraz Khan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1564.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Sarfaraz Khan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          8
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          180
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 8`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mohammad Shami"
+      src="https://iplstatic.s3.amazonaws.com/players/210/94.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mohammad Shami
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          19
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KKR Players 9`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ravichandran Ashwin"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ravichandran Ashwin
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          42
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 1`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="KL Rahul"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1125.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      KL Rahul
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          593
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 2`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Harpreet Brar"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5441.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Harpreet Brar
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          2
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          20
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 3`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mandeep Singh"
+      src="https://iplstatic.s3.amazonaws.com/players/210/72.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mandeep Singh
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          13
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          165
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 4`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Karun Nair"
+      src="https://iplstatic.s3.amazonaws.com/players/210/276.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Karun Nair
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 5`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Arshdeep Singh"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4698.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Arshdeep Singh
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          6
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 6`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mujeeb Rahman"
+      src="https://iplstatic.s3.amazonaws.com/players/210/4572.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mujeeb Rahman
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          3
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 7`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Sarfaraz Khan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1564.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Sarfaraz Khan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          8
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          180
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 8`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mohammad Shami"
+      src="https://iplstatic.s3.amazonaws.com/players/210/94.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mohammad Shami
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          19
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing KXIP Players 9`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ravichandran Ashwin"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ravichandran Ashwin
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          42
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 1`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Rohit Sharma"
+      src="https://iplstatic.s3.amazonaws.com/players/210/107.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Rohit Sharma
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          405
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 2`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Adithya Tare"
+      src="https://iplstatic.s3.amazonaws.com/players/210/99.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Adithya Tare
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 3`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Anmolpreet Singh"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2965.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Anmolpreet Singh
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 4`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Anukul Roy"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3774.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Anukul Roy
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 5`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Hardik Pandya"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2740.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Hardik Pandya
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          402
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 6`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ishan Kishan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2975.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ishan Kishan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          7
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          101
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 7`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Jaspreet Bumrah"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1124.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Jaspreet Bumrah
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          19
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 8`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Jayant Yadhav"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1740.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Jayant Yadhav
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          2
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          1
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 9`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Kieron Pollard"
+      src="https://iplstatic.s3.amazonaws.com/players/210/210.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Kieron Pollard
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          16
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          279
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing MI Players 10`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mitchell McClenaghan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/730.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mitchell McClenaghan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          11
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          3
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 1`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Virat Kohli"
+      src="https://iplstatic.s3.amazonaws.com/players/210/164.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Virat Kohli
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          464
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 2`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mohammed Siraj"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3840.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mohammed Siraj
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          9
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          4
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          7
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 3`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Marcus Stionis"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Marcus Stionis
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          211
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          2
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 4`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Moeen Ali"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1735.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Moeen Ali
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          11
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          220
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          6
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 5`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Akshaydeep Nath"
+      src="https://iplstatic.s3.amazonaws.com/players/210/3177.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Akshaydeep Nath
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          8
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          61
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 6`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="AB de Villiers"
+      src="https://iplstatic.s3.amazonaws.com/players/210/233.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      AB de Villiers
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          13
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          442
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 7`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Shimron Hitmyer"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Shimron Hitmyer
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          90
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 8`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Parthiv Patel"
+      src="https://iplstatic.s3.amazonaws.com/players/210/44.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Parthiv Patel
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          4
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          373
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RCB Players 9`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Milind Kumar"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1742.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Milind Kumar
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RR Players 1`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ben Stokes"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1154.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ben Stokes
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          9
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          123
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          6
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RR Players 2`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Sanju Samson"
+      src="https://iplstatic.s3.amazonaws.com/players/210/258.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Sanju Samson
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          12
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          342
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RR Players 3`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Steve Smith"
+      src="https://iplstatic.s3.amazonaws.com/players/210/271.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Steve Smith
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          12
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          319
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RR Players 4`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Shreyas Gopal"
+      src="https://iplstatic.s3.amazonaws.com/players/210/1748.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Shreyas Gopal
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          63
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          20
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RR Players 5`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Ajinkya Rahane"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Ajinkya Rahane
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          14
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          393
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RR Players 6`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Mahipal Lomror"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2970.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Mahipal Lomror
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          2
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          8
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RR Players 7`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Dhawal Kulkarni"
+      src="https://iplstatic.s3.amazonaws.com/players/210/Photo-Missing.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Dhawal Kulkarni
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          6
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing RR Players 8`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Oshane Thomas"
+      src="https://iplstatic.s3.amazonaws.com/players/210/5146.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Oshane Thomas
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          4
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 1`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Kane Willianson"
+      src="https://iplstatic.s3.amazonaws.com/players/210/440.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Kane Willianson
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          9
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          156
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 2`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Yusuf Pathan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/96.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Yusuf Pathan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          10
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          40
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 3`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Rashid Khan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2885.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Rashid Khan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          34
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          17
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 4`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Shakib Al Hasan"
+      src="https://iplstatic.s3.amazonaws.com/players/210/201.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Shakib Al Hasan
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          3
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          9
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          2
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 5`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Martin Guptill"
+      src="https://iplstatic.s3.amazonaws.com/players/210/431.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Martin Guptill
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          3
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          81
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 6`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Wriddhiman Saha"
+      src="https://iplstatic.s3.amazonaws.com/players/210/16.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Wriddhiman Saha
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          5
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          86
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 7`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Khaleel Ahmed"
+      src="https://iplstatic.s3.amazonaws.com/players/210/2694.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Khaleel Ahmed
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          9
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          19
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 8`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Bhuvneshwar Kumar"
+      src="https://iplstatic.s3.amazonaws.com/players/210/116.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Bhuvneshwar Kumar
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          15
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          12
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          13
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 9`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="Manish Pandey"
+      src="https://iplstatic.s3.amazonaws.com/players/210/123.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      Manish Pandey
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          12
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          344
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;
+
+exports[`testing SRH Players 10`] = `
+<div
+  class="playerCard-0-2-26"
+  data-testid="player-card"
+>
+  <div>
+    <img
+      alt="David Warner"
+      src="https://iplstatic.s3.amazonaws.com/players/210/170.png"
+    />
+  </div>
+  <div
+    class="playerDetail-0-2-27"
+  >
+    <p
+      class="name-0-2-28"
+    >
+      David Warner
+    </p>
+    <ul
+      class="stats-0-2-29"
+    >
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          12
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Matches
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          692
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Runs
+        </span>
+      </li>
+      <li
+        class="listItem-0-2-30"
+      >
+        <span
+          class="value-0-2-31"
+        >
+          0
+        </span>
+        <br />
+        <span
+          class="label-0-2-32"
+        >
+          Wickets
+        </span>
+      </li>
+    </ul>
+    <button
+      class="button-0-2-33"
+    >
+      View Profile
+    </button>
+  </div>
+</div>
+`;

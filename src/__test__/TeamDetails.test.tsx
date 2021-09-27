@@ -136,8 +136,8 @@ it("testing CSK Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
 it("testing DC Players", async () => {
@@ -241,8 +241,8 @@ it("testing DC Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
 it("testing DC Players", async () => {
@@ -346,8 +346,8 @@ it("testing DC Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
 it("testing KXIP Players", async () => {
@@ -463,8 +463,8 @@ it("testing KXIP Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
 it("testing KKR Players", async () => {
@@ -580,8 +580,8 @@ it("testing KKR Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
 it("testing MI Players", async () => {
@@ -707,8 +707,8 @@ it("testing MI Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
 it("testing RR Players", async () => {
@@ -814,8 +814,8 @@ it("testing RR Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
 it("testing RCB Players", async () => {
@@ -932,8 +932,8 @@ it("testing RCB Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
 it("testing SRH Players", async () => {
@@ -1059,7 +1059,7 @@ it("testing SRH Players", async () => {
   });
   render(<TeamDetails />);
   const cards = await screen.findAllByTestId("player-card");
-  for (let i = 0; i < cards.length; i++) {
-    expect(cards[i]).toMatchSnapshot();
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
   }
 });
