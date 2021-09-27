@@ -57,41 +57,8 @@ it("testing All Teams Page", async () => {
     ],
   });
   render(<AllTeams />);
-  const cards = await screen.findAllByTestId("cards");
-
-  expect(cards[0]).toHaveTextContent("Chennai Super Kings");
-  expect(cards[0]).toHaveTextContent("M. A. Chidambaram Stadium");
-  expect(cards[0]).toHaveTextContent("2010 2011 2018");
-  expect(cards[0]).toHaveTextContent("Team Home");
-
-  expect(cards[1]).toHaveTextContent("Delhi Capitals");
-  expect(cards[1]).toHaveTextContent("Feroz Shah Kotla Ground");
-  expect(cards[1]).toHaveTextContent("Team Home");
-
-  expect(cards[2]).toHaveTextContent("Kings XI Punjab");
-  expect(cards[2]).toHaveTextContent("IS Bindra Stadium");
-  expect(cards[2]).toHaveTextContent("Team Home");
-
-  expect(cards[3]).toHaveTextContent("Kolkata Knight Riders");
-  expect(cards[3]).toHaveTextContent("Eden Gardens");
-  expect(cards[3]).toHaveTextContent("2012 2014");
-  expect(cards[3]).toHaveTextContent("Team Home");
-
-  expect(cards[4]).toHaveTextContent("Mumbai Indians");
-  expect(cards[4]).toHaveTextContent("Wankhede Stadium");
-  expect(cards[4]).toHaveTextContent("2013 2015 2017 2019");
-  expect(cards[4]).toHaveTextContent("Team Home");
-
-  expect(cards[5]).toHaveTextContent("Rajasthan Royals");
-  expect(cards[5]).toHaveTextContent("Sawai Mansingh Stadium");
-  expect(cards[5]).toHaveTextContent("2008");
-  expect(cards[5]).toHaveTextContent("Team Home");
-
-  expect(cards[6]).toHaveTextContent("Royal Challengers Bangalore");
-  expect(cards[6]).toHaveTextContent("M. Chinnaswamy Stadium");
-  expect(cards[6]).toHaveTextContent("Team Home");
-
-  expect(cards[7]).toHaveTextContent("Sunrisers Hyderabad");
-  expect(cards[7]).toHaveTextContent("Rajiv Gandhi Intl. Cricket Stadium");
-  expect(cards[7]).toHaveTextContent("Team Home");
+  const cards = await screen.findAllByTestId("cards-teams");
+  for (const i of cards) {
+    expect(i).toMatchSnapshot();
+  }
 });

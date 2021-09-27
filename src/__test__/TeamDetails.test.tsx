@@ -1,6 +1,6 @@
-import { render } from "@testing-library/react";
+import { render, screen } from "@testing-library/react";
 import axios from "axios";
-import AllTeams from "../pages/TeamDetails";
+import TeamDetails from "../pages/TeamDetails";
 const mockedAxios = axios as jest.Mocked<typeof axios>;
 it("testing CSK Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -134,7 +134,11 @@ it("testing CSK Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });
 it("testing DC Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -235,7 +239,11 @@ it("testing DC Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });
 it("testing DC Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -336,7 +344,11 @@ it("testing DC Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });
 it("testing KXIP Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -449,7 +461,11 @@ it("testing KXIP Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });
 it("testing KKR Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -562,7 +578,11 @@ it("testing KKR Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });
 it("testing MI Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -685,7 +705,11 @@ it("testing MI Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });
 it("testing RR Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -788,7 +812,11 @@ it("testing RR Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });
 it("testing RCB Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -902,7 +930,11 @@ it("testing RCB Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });
 it("testing SRH Players", async () => {
   mockedAxios.get.mockResolvedValueOnce({
@@ -1025,5 +1057,9 @@ it("testing SRH Players", async () => {
       ],
     },
   });
-  render(<AllTeams />);
+  render(<TeamDetails />);
+  const cards = await screen.findAllByTestId("player-card");
+  for (let i = 0; i < cards.length; i++) {
+    expect(cards[i]).toMatchSnapshot();
+  }
 });

@@ -34,7 +34,7 @@ function Card(props: TeamDataType) {
 
   return (
     <div
-      data-testid="cards"
+      data-testid="cards-teams"
       className={`${style.teamCard} ${colour[id]}`}
       onClick={clickHandler}
     >
