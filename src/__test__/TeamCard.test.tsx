@@ -1,5 +1,14 @@
-import { render, screen } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import TeamCard from "../components/TeamCard";
+
+const mockHistoryPush = jest.fn();
+
+jest.mock("react-router-dom", () => ({
+  ...jest.requireActual("react-router-dom"),
+  useHistory: () => ({
+    push: mockHistoryPush,
+  }),
+}));
 
 it("testing Player card", async () => {
   const id = "chennai-super-kings";
@@ -18,4 +27,6 @@ it("testing Player card", async () => {
   );
   const card = await screen.findByTestId("cards-teams");
   expect(card).toMatchSnapshot();
+  fireEvent.click(card);
+  expect(mockHistoryPush).toHaveBeenCalled();
 });
